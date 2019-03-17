@@ -61,6 +61,7 @@ Supported devices:
 
 Tested devices:
 - Epson EH-TW5350
+- Epson EH-TW7300
 
 To make this module work you need to connect your projector to your LAN.
 The best is to use iProjection app by Epson to test if it is working.
